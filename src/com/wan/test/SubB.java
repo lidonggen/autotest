@@ -6,7 +6,7 @@ package com.wan.test;
 public class SubB implements B {
     @Override
     public void doSomething() {
-        System.out.println("做一些事情，我是监听");
+
         System.out.println("做一些事情，我是监听");
 
         System.out.println("做");
