@@ -8,6 +8,7 @@ public class SubB implements B {
     public void doSomething() {
         System.out.println("做一些事情，我是监听");
         System.out.println("做一些事情，我是监听");
+        System.out.println("做一些事情，我是监听");
     }
 
 
